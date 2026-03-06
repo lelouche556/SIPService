@@ -543,8 +543,3 @@ curl -s -X POST http://localhost:8080/api/v1/sip/payments/callback \
 GOCACHE=/tmp/go-build go test ./...
 ```
 
-## Naming check
-
-```bash
-scripts/check_naming.sh
-```
